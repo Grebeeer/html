@@ -1,0 +1,33 @@
+
+.listing {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.item {
+    flex: auto;
+}
+
+a:link {
+    color: white;
+    text-decoration:none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.buttontext {
+    color: white;
+}
+
+button {
+    background-color: blue;
+    border-radius: 20px;
+}
+
